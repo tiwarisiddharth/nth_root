@@ -1,5 +1,5 @@
 # nth_root
-Calculating nth root of a number
+Calculating nth root of a number without using library : Math
 
 Call nthRootMe(num,r) 
 
