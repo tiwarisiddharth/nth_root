@@ -1,7 +1,6 @@
-function squareRootMe(n,c)
+function nthRootMe(n,c)
 {
 	var z;
-
 	//Replacement for Math.pow
 	function power(aa,bb){
 		var cc=1;
