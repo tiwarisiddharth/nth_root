@@ -1,8 +1,12 @@
 # nth_root
-Calculating nth root of a number without using library : Math
+Calculating nth root of a number (m) without using library : Math in js
 
-Call nthRootMe(num,r) 
+And same logic written in python too.
 
+Call nthRootMe(m,n) 
+
+
+Just run the script in shell.
 
 Example :- 
 
