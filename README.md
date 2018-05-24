@@ -3,10 +3,16 @@ Calculating nth root of a number (m) without using library : Math in js
 
 And same logic written in python too.
 
-Call nthRootMe(m,n) 
+n can be any natural number.
 
+Call nthRootMe(m,n) by loading script in REPL.
+
+OR
 
 Just run the script in shell.
+
+$node nth_root.js   
+9.996665554937863   //output
 
 Example :- 
 
