@@ -1,4 +1,6 @@
 def nthRootMe(m,n):
+    
+    #to calculate p**q
     def pwr(p,q):
         r=1;
         for i in range(0,q):
