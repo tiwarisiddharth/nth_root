@@ -3,6 +3,7 @@ function nthRootMe(m,n)
 	var z;
 
 	//Replacement for Math.pow
+	//aa**bb is calculated here
 	function power(aa,bb){
 		var cc=1;
 		for(i=0;i<bb;i++){
