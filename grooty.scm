@@ -1,5 +1,4 @@
 (define (pow a b) 
-  
   (define (fractor n count) 
     (if (= (mod (* n 10) 1) 0)
         (list (gcd (* n 10) (* 10 count)) (* 10 count))
@@ -26,4 +25,3 @@
     ((< b 0) (/ 1.0 (pow a (* -1 b))))
     ((= (mod b 2) 0) (square (pow a (/ b 2))))
     (else (* a (pow a (- b 1))))))
-
